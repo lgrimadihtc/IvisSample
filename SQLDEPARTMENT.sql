@@ -1,0 +1,1 @@
+Select * from deparment where name='San Salvador';
